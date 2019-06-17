@@ -2,7 +2,7 @@
 
 Para desplegar un proyecto virgen de angular en netlify, teniendo previamente creada nuestra cuenta en netlify con acceso de escritura y lectura sobre todos los repositorios o el repositorio a desplegar, hacemos lo siguiente:
 
-- en el proyecto local ejecutamos: 
+- En el proyecto local ejecutamos: 
 
 ![1560223858516](C:\Users\Gabi\AppData\Roaming\Typora\typora-user-images\1560223858516.png)
 
